@@ -36,7 +36,7 @@ contract Coin is ERC20Interface, SafeMath {
     string public name = "MyNewCoin";
     string public symbol = "MNC";
     uint8 public decimals = 18;
-    uint256 public _totalSupply = 2000000000000000000000000000; // 2 billion SIM in supply
+    uint256 public _totalSupply = 2000000000000000000000000000; // 2 billion coins in supply
 
     mapping(address => uint256) balances;
     mapping(address => mapping(address => uint256)) allowed;
