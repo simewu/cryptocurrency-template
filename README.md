@@ -1,3 +1,3 @@
-The video that explains this contract can be found at:
+The corresponding video can be found at https://youtu.be/sfdp9vmUIMY.
 
-https://youtu.be/sfdp9vmUIMY
+![](/title.jpg)
